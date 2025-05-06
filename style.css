@@ -44,9 +44,6 @@ main {
 div .logo-container {
     width: 250px;
 }
-div.logo-container svg {
-    transform: rotate(180deg);
-}
 
 
 div.search-bar-and-buttons {
