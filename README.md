@@ -1,3 +1,13 @@
-google home page replicat 
+# google home page replicat 
 
-educational pupose 
+## educational pupose 
+
+* test 
+
+![item]()
+
+[url](test.com)
+
+```html
+test code
+```
